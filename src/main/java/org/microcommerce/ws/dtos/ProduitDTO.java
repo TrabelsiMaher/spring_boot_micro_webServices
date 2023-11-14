@@ -1,4 +1,4 @@
-package org.microcommerce.ws;
+package org.microcommerce.ws.dtos;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
