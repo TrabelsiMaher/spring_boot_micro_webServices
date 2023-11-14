@@ -13,4 +13,8 @@ public class productController {
 		return "hello you are here in Micro WS application !!!!";
 	}
 
+	 @GetMapping("/Produits")
+	   public String listeProduits() {
+	       return "Un exemple de produit";
+	   }
 }
